@@ -120,7 +120,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 * 全选设置字体报错 ([cdb14d1](https://github.com/wangeditor-team/wangEditor/commit/cdb14d10330b5736534e7aaf3a070df2804a8be2))
 * 上下标文案显示 ([0e97da1](https://github.com/wangeditor-team/wangEditor/commit/0e97da18279cee6ea06c217972fee4faf9e4758f))
 * 添加链接,空格也会在链接中的问题 ([c656827](https://github.com/wangeditor-team/wangEditor/commit/c65682743bd49eba9ab64be847f1f9527fb6170b))
-* 修复 pnpm 安装 @wangeditor/editor 出现警告的问题 ([4087fbe](https://github.com/wangeditor-team/wangEditor/commit/4087fbee01c76bdd55e747a5e86c5e4a8d6a8353))
+* 修复 pnpm 安装 cteditor 出现警告的问题 ([4087fbe](https://github.com/wangeditor-team/wangEditor/commit/4087fbee01c76bdd55e747a5e86c5e4a8d6a8353))
 * 修复多选文字且选择空白行无法修改文字样式 ([99a9150](https://github.com/wangeditor-team/wangEditor/commit/99a91509c6e12220bb105cc6d15a0f0a4b375cea))
 * 修复光标状态下设置文字样式,菜单不 active 的问题 ([b1b2dba](https://github.com/wangeditor-team/wangEditor/commit/b1b2dbaaae11f74bd36ec79ff50de336c252fef5))
 * 修复清除格式不完全的问题 ([1181a23](https://github.com/wangeditor-team/wangEditor/commit/1181a23e6de71162dc490d9b348379c9b2ef4251))

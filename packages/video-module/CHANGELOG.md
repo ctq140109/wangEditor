@@ -75,7 +75,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 * 部分菜单 disabled ([87f1233](https://github.com/wangeditor-team/wangEditor/commit/87f12332a087072406c1988dc5cef2eae8335375))
 * 插入图片的 < > 替换 ([5721560](https://github.com/wangeditor-team/wangEditor/commit/57215609ada8b9d15f5505d1ba52e49707b5b183))
 * 更新各包之间依赖版本 ([75c552c](https://github.com/wangeditor-team/wangEditor/commit/75c552cc8ed54765bebb86a7ec5329a7fc79e85f))
-* 修复 pnpm 安装 @wangeditor/editor 出现警告的问题 ([4087fbe](https://github.com/wangeditor-team/wangEditor/commit/4087fbee01c76bdd55e747a5e86c5e4a8d6a8353))
+* 修复 pnpm 安装 cteditor 出现警告的问题 ([4087fbe](https://github.com/wangeditor-team/wangEditor/commit/4087fbee01c76bdd55e747a5e86c5e4a8d6a8353))
 * 修复视频无法被xml-formatter解析的问题 ([e081518](https://github.com/wangeditor-team/wangEditor/commit/e08151863628e0241fe4a3d5858cda4c8ea57949)), closes [#101](https://github.com/wangeditor-team/wangEditor/issues/101) [#95](https://github.com/wangeditor-team/wangEditor/issues/95) [#70](https://github.com/wangeditor-team/wangEditor/issues/70) [#69](https://github.com/wangeditor-team/wangEditor/issues/69)
 * 移除了每个包下的 publishConfig directory 配置 ([16559f0](https://github.com/wangeditor-team/wangEditor/commit/16559f052545c111318be760e64291a521bdcc65))
 * fix插入视频报错的问题 ([f78b06d](https://github.com/wangeditor-team/wangEditor/commit/f78b06d7f75c288f306f04fbfec1dfeb1332a861))

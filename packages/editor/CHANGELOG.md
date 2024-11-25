@@ -5,61 +5,61 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ## 5.1.24 (2024-11-24)
 
-**Note:** Version bump only for package @wangeditor/editor
+**Note:** Version bump only for package cteditor
 
 
 
 
 
-## [5.1.23](https://github.com/wangeditor-team/wangEditor/compare/@wangeditor/editor@5.1.22...@wangeditor/editor@5.1.23) (2022-11-14)
+## [5.1.23](https://github.com/wangeditor-team/wangEditor/compare/cteditor@5.1.22...cteditor@5.1.23) (2022-11-14)
 
-**Note:** Version bump only for package @wangeditor/editor
-
-
-
-
-
-## [5.1.22](https://github.com/wangeditor-team/wangEditor/compare/@wangeditor/editor@5.1.21...@wangeditor/editor@5.1.22) (2022-10-18)
-
-**Note:** Version bump only for package @wangeditor/editor
+**Note:** Version bump only for package cteditor
 
 
 
 
 
-## [5.1.21](https://github.com/wangeditor-team/wangEditor/compare/@wangeditor/editor@5.1.20...@wangeditor/editor@5.1.21) (2022-10-04)
+## [5.1.22](https://github.com/wangeditor-team/wangEditor/compare/cteditor@5.1.21...cteditor@5.1.22) (2022-10-18)
 
-**Note:** Version bump only for package @wangeditor/editor
-
-
-
-
-
-## [5.1.20](https://github.com/wangeditor-team/wangEditor/compare/@wangeditor/editor@5.1.19...@wangeditor/editor@5.1.20) (2022-09-27)
-
-**Note:** Version bump only for package @wangeditor/editor
+**Note:** Version bump only for package cteditor
 
 
 
 
 
-## [5.1.19](https://github.com/wangeditor-team/wangEditor/compare/@wangeditor/editor@5.1.18...@wangeditor/editor@5.1.19) (2022-09-27)
+## [5.1.21](https://github.com/wangeditor-team/wangEditor/compare/cteditor@5.1.20...cteditor@5.1.21) (2022-10-04)
 
-**Note:** Version bump only for package @wangeditor/editor
-
-
-
-
-
-## [5.1.18](https://github.com/wangeditor-team/wangEditor/compare/@wangeditor/editor@5.1.17...@wangeditor/editor@5.1.18) (2022-09-16)
-
-**Note:** Version bump only for package @wangeditor/editor
+**Note:** Version bump only for package cteditor
 
 
 
 
 
-## [5.1.17](https://github.com/wangeditor-team/wangEditor/compare/@wangeditor/editor@5.1.16...@wangeditor/editor@5.1.17) (2022-09-15)
+## [5.1.20](https://github.com/wangeditor-team/wangEditor/compare/cteditor@5.1.19...cteditor@5.1.20) (2022-09-27)
+
+**Note:** Version bump only for package cteditor
+
+
+
+
+
+## [5.1.19](https://github.com/wangeditor-team/wangEditor/compare/cteditor@5.1.18...cteditor@5.1.19) (2022-09-27)
+
+**Note:** Version bump only for package cteditor
+
+
+
+
+
+## [5.1.18](https://github.com/wangeditor-team/wangEditor/compare/cteditor@5.1.17...cteditor@5.1.18) (2022-09-16)
+
+**Note:** Version bump only for package cteditor
+
+
+
+
+
+## [5.1.17](https://github.com/wangeditor-team/wangEditor/compare/cteditor@5.1.16...cteditor@5.1.17) (2022-09-15)
 
 
 ### Bug Fixes
@@ -72,15 +72,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [5.1.16](https://github.com/wangeditor-team/wangEditor/compare/@wangeditor/editor@5.1.15...@wangeditor/editor@5.1.16) (2022-09-14)
+## [5.1.16](https://github.com/wangeditor-team/wangEditor/compare/cteditor@5.1.15...cteditor@5.1.16) (2022-09-14)
 
-**Note:** Version bump only for package @wangeditor/editor
-
-
+**Note:** Version bump only for package cteditor
 
 
 
-## [5.1.15](https://github.com/wangeditor-team/wangEditor/compare/@wangeditor/editor@5.1.14...@wangeditor/editor@5.1.15) (2022-08-30)
+
+
+## [5.1.15](https://github.com/wangeditor-team/wangEditor/compare/cteditor@5.1.14...cteditor@5.1.15) (2022-08-30)
 
 
 ### Bug Fixes
@@ -91,15 +91,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [5.1.14](https://github.com/wangeditor-team/wangEditor/compare/@wangeditor/editor@5.1.13...@wangeditor/editor@5.1.14) (2022-07-27)
+## [5.1.14](https://github.com/wangeditor-team/wangEditor/compare/cteditor@5.1.13...cteditor@5.1.14) (2022-07-27)
 
-**Note:** Version bump only for package @wangeditor/editor
-
-
+**Note:** Version bump only for package cteditor
 
 
 
-## [5.1.13](https://github.com/wangeditor-team/wangEditor/compare/@wangeditor/editor@5.1.12...@wangeditor/editor@5.1.13) (2022-07-27)
+
+
+## [5.1.13](https://github.com/wangeditor-team/wangEditor/compare/cteditor@5.1.12...cteditor@5.1.13) (2022-07-27)
 
 
 ### Bug Fixes
@@ -111,74 +111,63 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [5.1.12](https://github.com/wangeditor-team/wangEditor/compare/@wangeditor/editor@5.1.11...@wangeditor/editor@5.1.12) (2022-07-22)
+## [5.1.12](https://github.com/wangeditor-team/wangEditor/compare/cteditor@5.1.11...cteditor@5.1.12) (2022-07-22)
 
-**Note:** Version bump only for package @wangeditor/editor
-
-
-
-
-
-## [5.1.11](https://github.com/wangeditor-team/wangEditor/compare/@wangeditor/editor@5.1.10...@wangeditor/editor@5.1.11) (2022-07-18)
-
-**Note:** Version bump only for package @wangeditor/editor
+**Note:** Version bump only for package cteditor
 
 
 
 
 
-## [5.1.10](https://github.com/wangeditor-team/wangEditor/compare/@wangeditor/editor@5.1.9...@wangeditor/editor@5.1.10) (2022-07-16)
+## [5.1.11](https://github.com/wangeditor-team/wangEditor/compare/cteditor@5.1.10...cteditor@5.1.11) (2022-07-18)
 
-**Note:** Version bump only for package @wangeditor/editor
-
-
-
-
-
-## [5.1.9](https://github.com/wangeditor-team/wangEditor/compare/@wangeditor/editor@5.1.8...@wangeditor/editor@5.1.9) (2022-07-14)
-
-**Note:** Version bump only for package @wangeditor/editor
+**Note:** Version bump only for package cteditor
 
 
 
 
 
-## [5.1.8](https://github.com/wangeditor-team/wangEditor/compare/@wangeditor/editor@5.1.7...@wangeditor/editor@5.1.8) (2022-07-14)
+## [5.1.10](https://github.com/wangeditor-team/wangEditor/compare/cteditor@5.1.9...cteditor@5.1.10) (2022-07-16)
 
-**Note:** Version bump only for package @wangeditor/editor
-
-
-
-
-
-## [5.1.7](https://github.com/wangeditor-team/wangEditor/compare/@wangeditor/editor@5.1.6...@wangeditor/editor@5.1.7) (2022-07-13)
-
-**Note:** Version bump only for package @wangeditor/editor
+**Note:** Version bump only for package cteditor
 
 
 
 
 
-## [5.1.6](https://github.com/wangeditor-team/wangEditor/compare/@wangeditor/editor@5.1.5...@wangeditor/editor@5.1.6) (2022-07-12)
+## [5.1.9](https://github.com/wangeditor-team/wangEditor/compare/cteditor@5.1.8...cteditor@5.1.9) (2022-07-14)
 
-**Note:** Version bump only for package @wangeditor/editor
-
-
-
-
-
-## [5.1.5](https://github.com/wangeditor-team/wangEditor/compare/@wangeditor/editor@5.1.3...@wangeditor/editor@5.1.5) (2022-07-11)
-
-
-### Bug Fixes
-
-* 尝试修复 nuxt 报错 issue[#4409](https://github.com/wangeditor-team/wangEditor/issues/4409) ([912f888](https://github.com/wangeditor-team/wangEditor/commit/912f8889a11d962b3ac2c65cb5835f4e8c58c372))
+**Note:** Version bump only for package cteditor
 
 
 
 
 
-## [5.1.4](https://github.com/wangeditor-team/wangEditor/compare/@wangeditor/editor@5.1.3...@wangeditor/editor@5.1.4) (2022-07-11)
+## [5.1.8](https://github.com/wangeditor-team/wangEditor/compare/cteditor@5.1.7...cteditor@5.1.8) (2022-07-14)
+
+**Note:** Version bump only for package cteditor
+
+
+
+
+
+## [5.1.7](https://github.com/wangeditor-team/wangEditor/compare/cteditor@5.1.6...cteditor@5.1.7) (2022-07-13)
+
+**Note:** Version bump only for package cteditor
+
+
+
+
+
+## [5.1.6](https://github.com/wangeditor-team/wangEditor/compare/cteditor@5.1.5...cteditor@5.1.6) (2022-07-12)
+
+**Note:** Version bump only for package cteditor
+
+
+
+
+
+## [5.1.5](https://github.com/wangeditor-team/wangEditor/compare/cteditor@5.1.3...cteditor@5.1.5) (2022-07-11)
 
 
 ### Bug Fixes
@@ -189,7 +178,18 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [5.1.3](https://github.com/wangeditor-team/wangEditor/compare/@wangeditor/editor@5.1.2...@wangeditor/editor@5.1.3) (2022-07-11)
+## [5.1.4](https://github.com/wangeditor-team/wangEditor/compare/cteditor@5.1.3...cteditor@5.1.4) (2022-07-11)
+
+
+### Bug Fixes
+
+* 尝试修复 nuxt 报错 issue[#4409](https://github.com/wangeditor-team/wangEditor/issues/4409) ([912f888](https://github.com/wangeditor-team/wangEditor/commit/912f8889a11d962b3ac2c65cb5835f4e8c58c372))
+
+
+
+
+
+## [5.1.3](https://github.com/wangeditor-team/wangEditor/compare/cteditor@5.1.2...cteditor@5.1.3) (2022-07-11)
 
 
 ### Bug Fixes
@@ -200,23 +200,23 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [5.1.2](https://github.com/wangeditor-team/wangEditor/compare/@wangeditor/editor@5.1.1...@wangeditor/editor@5.1.2) (2022-07-11)
+## [5.1.2](https://github.com/wangeditor-team/wangEditor/compare/cteditor@5.1.1...cteditor@5.1.2) (2022-07-11)
 
-**Note:** Version bump only for package @wangeditor/editor
-
-
-
-
-
-## [5.1.1](https://github.com/wangeditor-team/wangEditor/compare/@wangeditor/editor@5.1.0...@wangeditor/editor@5.1.1) (2022-06-02)
-
-**Note:** Version bump only for package @wangeditor/editor
+**Note:** Version bump only for package cteditor
 
 
 
 
 
-# [5.1.0](https://github.com/wangeditor-team/wangEditor/compare/@wangeditor/editor@5.0.1...@wangeditor/editor@5.1.0) (2022-05-25)
+## [5.1.1](https://github.com/wangeditor-team/wangEditor/compare/cteditor@5.1.0...cteditor@5.1.1) (2022-06-02)
+
+**Note:** Version bump only for package cteditor
+
+
+
+
+
+# [5.1.0](https://github.com/wangeditor-team/wangEditor/compare/cteditor@5.0.1...cteditor@5.1.0) (2022-05-25)
 
 
 ### Features
