@@ -1,5 +1,5 @@
 {
-  "name": "@wangeditor-team/wangeditor",
+  "name": "cteditor",
   "private": true,
   "scripts": {
     "test": "cross-env NODE_OPTIONS=--unhandled-rejections=warn jest --detectOpenHandles --passWithNoTests",
@@ -32,12 +32,6 @@
       "yarn format",
       "git add ."
     ]
-  },
-  "husky": {
-    "hooks": {
-      "pre-commit": "lint-staged",
-      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
-    }
   },
   "config": {
     "commitizen": {
@@ -106,5 +100,9 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.14.6"
+  },
+  "volta": {
+    "node": "16.10.0",
+    "yarn": "1.22.19"
   }
 }

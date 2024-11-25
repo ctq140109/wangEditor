@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.1.8 (2024-11-24)
+
+**Note:** Version bump only for package @wangeditor/basic-modules
+
+
+
+
+
 ## [1.1.7](https://github.com/wangeditor-team/wangEditor/compare/@wangeditor/basic-modules@1.1.6...@wangeditor/basic-modules@1.1.7) (2022-11-14)
 
 

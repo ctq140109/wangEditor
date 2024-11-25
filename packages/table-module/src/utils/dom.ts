@@ -68,6 +68,23 @@ export function getStyleValue($elem: Dom7Array, styleKey: string): string {
   return res
 }
 
+const HTML_ELEMENT_STR_REG_EXP = /\[object HTML([A-Z][a-z]*)*Element\]/
+
+export const isHTMLElememt = (value: any): value is HTMLElement => {
+  return HTML_ELEMENT_STR_REG_EXP.test(Object.prototype.toString.call(value))
+}
+
+/**
+ * 获取 outerHTML
+ * @param $elem dom7 elem
+ */
+export function getOuterHTML($elem: Dom7Array) {
+  if ($elem.length === 0) {
+    return ''
+  }
+  return $elem[0].outerHTML
+}
+
 // COMPAT: This is required to prevent TypeScript aliases from doing some very
 // weird things for Slate's types with the same name as globals. (2019/11/27)
 // https://github.com/microsoft/TypeScript/issues/35002

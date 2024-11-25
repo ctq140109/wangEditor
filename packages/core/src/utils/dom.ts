@@ -35,6 +35,7 @@ import $, {
   empty,
   Dom7Array,
 } from 'dom7'
+import { toString } from './util'
 export { Dom7Array } from 'dom7'
 
 if (css) $.fn.css = css
@@ -378,4 +379,25 @@ export function getTagName($elem: Dom7Array): string {
   const elem = $elem[0]
   if (elem.nodeType !== NodeType.ELEMENT_NODE) return ''
   return elem.tagName.toLowerCase()
+}
+
+export const isDocument = (value: any): value is Document => {
+  return toString(value) === '[object HTMLDocument]'
+}
+
+export const isShadowRoot = (value: any): value is ShadowRoot => {
+  return toString(value) === '[object ShadowRoot]'
+}
+
+export const isDataTransfer = (value: any): value is DataTransfer => {
+  return toString(value) === '[object DataTransfer]'
+}
+
+const HTML_ELEMENT_STR_REG_EXP = /\[object HTML([A-Z][a-z]*)*Element\]/
+
+export const isUnprocessedListElement = (el: Element): boolean => {
+  return 'matches' in el && /^[ou]l$/i.test(el.tagName) && !el.hasAttribute('data-w-e-type')
+}
+export const isHTMLElememt = (value: any): value is HTMLElement => {
+  return HTML_ELEMENT_STR_REG_EXP.test(toString(value))
 }

@@ -18,9 +18,17 @@ import {
   deleteTableColConf,
   tableHeaderMenuConf,
   tableFullWidthMenuConf,
+  mergeTableCellConf,
+  splitTableCellConf,
 } from './menu/index'
+import { renderStyle } from './render-style'
+import { styleToHtml } from './style-to-html'
+import { parseStyleHtml } from './parse-style-html'
 
 const table: Partial<IModuleConf> = {
+  renderStyle,
+  styleToHtml,
+  parseStyleHtml,
   renderElems: [renderTableConf, renderTableRowConf, renderTableCellConf],
   elemsToHtml: [tableToHtmlConf, tableRowToHtmlConf, tableCellToHtmlConf],
   preParseHtml: [preParseTableHtmlConf],
@@ -34,6 +42,8 @@ const table: Partial<IModuleConf> = {
     deleteTableColConf,
     tableHeaderMenuConf,
     tableFullWidthMenuConf,
+    mergeTableCellConf,
+    splitTableCellConf,
   ],
   editorPlugin: withTable,
 }

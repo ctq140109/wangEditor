@@ -117,11 +117,11 @@ export function editorSelectionToDOM(textarea: TextArea, editor: IDomEditor, foc
     }
 
     // 滚动到选区
-    let leafEl = newDomRange.startContainer.parentElement! as Element
+    const leafEl = newDomRange.startContainer.parentElement! as Element
     const spacer = leafEl.closest('[data-slate-spacer]')
 
     // 这个 if 防止选中图片时发生滚动
-    if (!spacer) {
+    if (!spacer && newDomRange.getBoundingClientRect) {
       leafEl.getBoundingClientRect = newDomRange.getBoundingClientRect.bind(newDomRange)
       const body = document.body
       scrollIntoView(leafEl, {
@@ -172,6 +172,8 @@ export function DOMSelectionToEditor(textarea: TextArea, editor: IDomEditor) {
     IS_FOCUSED.set(editor, true)
   } else {
     IS_FOCUSED.delete(editor)
+    Transforms.deselect(editor)
+    return
   }
 
   if (!domSelection) {
@@ -192,6 +194,7 @@ export function DOMSelectionToEditor(textarea: TextArea, editor: IDomEditor) {
     })
     Transforms.select(editor, range)
   } else {
-    Transforms.deselect(editor)
+    // 禁用此行，让光标选区继续生效
+    // Transforms.deselect(editor)
   }
 }
